@@ -1,8 +1,8 @@
 # Terminal Portfolio Website by Ayushman Sarkar
 
-![ts](https://badgen.net/badge/Built%20With/TypeScript/blue?style=flat-square)
-
 My portfolio website as a terminal developed with React, TypeScript and styled-components. Multiple themes are supported and keyboard shortcuts can be used for some functionalities.
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Features
 
