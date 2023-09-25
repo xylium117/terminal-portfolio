@@ -64,7 +64,7 @@ const projects = [
     id: 2,
     title: "Pixellated",
     desc: "An interactive and user-friendly webpage to convert images to HTML pixel art",
-    url: "https://haru-fashion.vercel.app/",
+    url: "https://ayushmansarkar.github.io/pixellated/",
   },
   {
     id: 3,
