@@ -1,7 +1,7 @@
 {
-  "name": "Terminal Portfolio by AS",
+  "name": "Terminal Portfolio by SN",
   "short_name": "Terminal",
-  "description": "Ayushman's terminal portfolio website coded with ReactJS.",
+  "description": "Sat Naing's terminal portfolio website coded with ReactJS.",
   "start_url": "/",
   "icons": [
     {
