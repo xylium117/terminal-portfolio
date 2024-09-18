@@ -9,7 +9,6 @@ const Education: React.FC = () => {
         <EduList key={title}>
           <div className="title">{title}</div>
           <div className="desc">{desc}</div>
-          <div className="desc2">{desc2}</div>
         </EduList>
       ))}
     </Wrapper>
@@ -19,8 +18,7 @@ const Education: React.FC = () => {
 const eduBg = [
   {
     title: "High School",
-    desc: "The Future Foundation School | 2014 ~ 2024",
-    desc2: "St. Xavier's Collegiate School | 2024 ~ 2026",
+    desc: "The Future Foundation School | 2014 ~ 2024<br>St. Xavier's Collegiate School | 2024 ~ 2026",
   },
 ];
 
