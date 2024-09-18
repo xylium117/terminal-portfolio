@@ -64,19 +64,19 @@ const projects = [
     id: 2,
     title: "Pixellated",
     desc: "An interactive and user-friendly webpage to convert images to HTML pixel art",
-    url: "https://ayushmansarkar.github.io/pixellated/",
+    url: "https://xylium117.github.io/pixellated/",
   },
   {
     id: 3,
     title: "ASCIIfy",
     desc: "An interactive and user-friendly webpage to convert images to ASCII Art.",
-    url: "https://ayushmansarkar.github.io/asciify/",
+    url: "https://xylium117.github.io/asciify/",
   },
   {
     id: 4,
     title: "Codepen Gallery",
     desc: "A gallery of my CodePen creations, made using SCSS.",
-    url: "https://ayushmansarkar.github.io/codepen-gallery/",
+    url: "https://xylium117.github.io/codepen-gallery/",
   },
 ];
 
