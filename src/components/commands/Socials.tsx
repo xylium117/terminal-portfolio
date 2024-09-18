@@ -70,7 +70,7 @@ const socials = [
   {
     id: 4,
     title: "Instagram",
-    url: "https://instagram.com/_xylium117",
+    url: "https://instagram.com/isark17",
     tab: 0,
   },
 
